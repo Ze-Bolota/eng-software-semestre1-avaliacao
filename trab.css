@@ -1,0 +1,105 @@
+body {
+    background: rgba(144, 149, 148, 0.231);
+}
+h1#name{
+    text-align: center;
+    font-family: serif;
+    color: #ba000099;
+    text-shadow: 2px 1px 4px #000000;
+}
+p#bio{
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid #000000;
+}
+button#saudacao{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 15px;
+    margin-top: 15px;
+    color: #000000;
+    text-shadow: 2px 1px 4px #7f0404;
+    background-color: #b1b0b0;
+    cursor: pointer;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+#mensagemSaudacao {
+    display: none;
+    text-align: center;
+    margin-top: 25px; 
+    font-size: 1.5em;
+    color: #ba000099;
+    text-shadow: 2px 1px 4px #000000;
+    font-weight: bold;
+    transition: opacity 0.5s ease-in-out;
+}
+#mensagemSaudacao.visivel {
+    display: block;
+    opacity: 1;
+}
+ul{
+    list-style-type: disc; /* Tipo de marcador (bolinha, quadrado, etc.) */
+    padding-left: 25px;
+    margin: 25px 0;
+}
+li{
+    margin-bottom: 10px;
+    
+}
+img#hobbie{
+    border-radius: 25px;
+    display: block; /* Transforma a imagem em um elemento de bloco */
+    margin-left: auto; /* Define margem esquerda automática */
+    margin-right: auto;
+    max-width: 100%; /* Garante que a imagem seja responsiva */
+    height: auto;
+}
+table {
+        width: 50%;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+        margin: 0 auto 30px auto; 
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden; /* Garante que os cantos arredondados sejam visíveis nas bordas */
+        margin-top: 25px;
+        }
+    thead#cabecalho{
+        color: #ba000099;
+        text-shadow: 2px 1px 4px #e32828b0;
+        background: #000000;
+    }
+    th, td {
+            border: 1px solid #0000007b;
+            padding: 8px;
+            text-align: left;
+        }
+    img#collun {
+        max-width: 150px; /* Define um tamanho máximo para as imagens */
+        height: auto;
+        display: block; /* Garante que a imagem não tenha espaço extra abaixo */
+        margin: 0 auto; /* Centraliza a imagem na célula */
+        }
+a {
+    color: #007bff;
+    text-decoration: none; 
+    transition: color 0.3s ease;
+}
+a:hover {
+    color: #ff6600; 
+    text-decoration: underline; 
+}
+div#fundo{
+    width: 100%;
+    background-color: #1e7df025;
+    padding: 5px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center; 
+    transition: color 0.3s ease;
+}
