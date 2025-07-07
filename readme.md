@@ -3,7 +3,7 @@ Este repositório contém um projeto desenvolvido como parte do trabalho avaliat
 
 O projeto inclui:
 
-Seção de Apresentação Pessoal (<p id="bio">): Uma breve introdução sobre mim, Maicon Amaral, minha jornada na Engenharia de Software e meu interesse em Back-end, começando pelo Front-end.
+Seção de Apresentação Pessoal (<p id="bio">): Uma breve introdução sobre mim, meu interesse em Back-end.
 
 Interatividade com Botão: Um botão (<button id="saudacao">) que, ao ser clicado, desaparece com uma transição suave e revela uma mensagem de saudação personalizada, demonstrando manipulação do DOM e eventos com JavaScript.
 
@@ -11,9 +11,9 @@ Lista de Hobbies (<ul>): Uma lista simples dos meus hobbies e interesses.
 
 Galeria de Imagem de Hobby (<img id="hobbie">): Uma imagem para ilustrar um dos hobbies.
 
-Tabela Estilizada (<table>): Uma tabela com informações (ex: países) e imagens correspondentes, estilizada para melhorar a legibilidade e a estética visual.
+Tabela Estilizada (<table>): Uma tabela com informações e imagens correspondentes, estilizada para melhorar a legibilidade e a estética visual.
 
-Link Interativo (<div> com <a>): Uma div que contém um link (<a id="meuLink">). Ao passar o mouse sobre este link, a cor de fundo da div muda, demonstrando mais interatividade via JavaScript e CSS.
+Link Interativo (<div> com <a>): Uma div que contém um link (<a id="meuLink">). Ao passar o mouse sobre este link, mudar de cor, demonstrando mais interatividade via JavaScript e CSS.
 
 Tecnologias Utilizadas
 HTML5: Para estruturar o conteúdo e a semântica da página.
@@ -30,14 +30,13 @@ Abra seu terminal ou prompt de comando e execute:
 
 Bash
 
-git clone [URL_DO_SEU_REPOSITORIO]
-(Substitua [URL_DO_SEU_REPOSITORIO] pela URL real do seu repositório no GitHub).
+git clone [eng-software-semestre1-avaliacao]
 
 Navegue até o Diretório do Projeto:
 
 Bash
 
-cd [nome-do-seu-repositorio]
+cd [eng-software-semestre1-avaliacao]
 Abra o Arquivo index.html:
 Localize o arquivo index.html na pasta do projeto e abra-o diretamente em seu navegador web (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.).
 
@@ -56,15 +55,13 @@ A estrutura do diretório do projeto é organizada da seguinte forma:
 Autor
 Maicon Amaral
 
-Matrícula/RA: [Sua Matrícula/RA aqui]
+Matrícula/RA: 5437126
 
 Curso: Engenharia de Software
 
-Instituição: [Nome da Sua Instituição de Ensino]
+Instituição: UNINTER
 
-LinkedIn (Opcional): [Seu perfil do LinkedIn, se tiver]
-
-GitHub (Opcional): [Seu perfil do GitHub, se tiver]
+LinkedIn: (https://www.linkedin.com/in/maicon-amaral-b9283722a/)
 
 Considerações Finais
 Este projeto demonstra a aplicação prática dos conceitos iniciais de desenvolvimento web e a importância da interação entre HTML, CSS e JavaScript para criar interfaces dinâmicas.
