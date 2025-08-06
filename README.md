@@ -22,24 +22,6 @@ CSS3: Para toda a estilização, layout, efeitos visuais (sombras, transições)
 
 JavaScript (ES6+): Para adicionar interatividade, como a funcionalidade do botão de saudação e a mudança de cor da div ao passar o mouse sobre o link.
 
-Como Visualizar o Projeto
-Para inspecionar e testar este projeto em seu ambiente local, siga os passos abaixo:
-
-Clone o Repositório:
-Abra seu terminal ou prompt de comando e execute:
-
-Bash
-
-git clone [eng-software-semestre1-avaliacao]
-
-Navegue até o Diretório do Projeto:
-
-Bash
-
-cd [eng-software-semestre1-avaliacao]
-Abra o Arquivo index.html:
-Localize o arquivo index.html na pasta do projeto e abra-o diretamente em seu navegador web (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.).
-
 Estrutura de Arquivos
 A estrutura do diretório do projeto é organizada da seguinte forma:
 
